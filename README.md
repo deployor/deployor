@@ -38,7 +38,7 @@ Total: 0 hrs 0 mins
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 🚀 Latest Pull Requests
+### Latest Pull Requests
 
 
 - [E](https://github.com/DragonSenseiGuy/midnight-status/pull/1) in [midnight-status](https://github.com/DragonSenseiGuy/midnight-status)
