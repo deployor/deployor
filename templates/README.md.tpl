@@ -26,7 +26,9 @@ German high-school student into systems, security, and building things that feel
 ### Stats
 
 ```text
-{{ wakatimeData.Languages | wakatimeCategoryBar 5 }}
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
+Total: {{ wakatimeData.HumanReadableTotal }}
 ```
 
 <br clear="both" />
