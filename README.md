@@ -41,11 +41,11 @@ Total: 0 hrs 0 mins
 ### Latest Pull Requests
 
 
+- [Fix the assist pipeline deiprication](https://github.com/TheRealPSV/ha-openwebui-conversation/pull/39) in [ha-openwebui-conversation](https://github.com/TheRealPSV/ha-openwebui-conversation)
+
 - [Fix Fix Fr](https://github.com/hiralsinghal/haxmas-4/pull/2) in [haxmas-4](https://github.com/hiralsinghal/haxmas-4)
 
 - [Make Work](https://github.com/hiralsinghal/haxmas-4/pull/1) in [haxmas-4](https://github.com/hiralsinghal/haxmas-4)
-
-- [E](https://github.com/DragonSenseiGuy/midnight-status/pull/1) in [midnight-status](https://github.com/DragonSenseiGuy/midnight-status)
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
