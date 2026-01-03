@@ -41,11 +41,11 @@ Total: 0 hrs 0 mins
 ### Latest Pull Requests
 
 
+- [Updating photos.hackclub.com](https://github.com/hackclub/dns/pull/2336) in [dns](https://github.com/hackclub/dns)
+
+- [Updating photos.hackclub.com](https://github.com/3kho/hc-dns/pull/1) in [hc-dns](https://github.com/3kho/hc-dns)
+
 - [Fix the assist pipeline deiprication](https://github.com/TheRealPSV/ha-openwebui-conversation/pull/39) in [ha-openwebui-conversation](https://github.com/TheRealPSV/ha-openwebui-conversation)
-
-- [Fix Fix Fr](https://github.com/hiralsinghal/haxmas-4/pull/2) in [haxmas-4](https://github.com/hiralsinghal/haxmas-4)
-
-- [Make Work](https://github.com/hiralsinghal/haxmas-4/pull/1) in [haxmas-4](https://github.com/hiralsinghal/haxmas-4)
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
