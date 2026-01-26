@@ -41,11 +41,11 @@ Total: 0 hrs 0 mins
 ### Latest Pull Requests
 
 
+- [feat: added actual api docs (rswag) + ci enforcement](https://github.com/hackclub/hackatime/pull/846) in [hackatime](https://github.com/hackclub/hackatime)
+
 - [Updating photos.hackclub.com](https://github.com/hackclub/dns/pull/2336) in [dns](https://github.com/hackclub/dns)
 
 - [Updating photos.hackclub.com](https://github.com/3kho/hc-dns/pull/1) in [hc-dns](https://github.com/3kho/hc-dns)
-
-- [Fix the assist pipeline deiprication](https://github.com/TheRealPSV/ha-openwebui-conversation/pull/39) in [ha-openwebui-conversation](https://github.com/TheRealPSV/ha-openwebui-conversation)
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
