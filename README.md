@@ -41,11 +41,11 @@ Total: 0 hrs 0 mins
 ### Latest Pull Requests
 
 
+- [[Snyk] Fix for 2 vulnerabilities](https://github.com/deployor/bloxadmin/pull/8) in [bloxadmin](https://github.com/deployor/bloxadmin)
+
 - [feat: added actual api docs (rswag) + ci enforcement](https://github.com/hackclub/hackatime/pull/846) in [hackatime](https://github.com/hackclub/hackatime)
 
 - [Updating photos.hackclub.com](https://github.com/hackclub/dns/pull/2336) in [dns](https://github.com/hackclub/dns)
-
-- [Updating photos.hackclub.com](https://github.com/3kho/hc-dns/pull/1) in [hc-dns](https://github.com/3kho/hc-dns)
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
